@@ -13,3 +13,4 @@
     Classification is a task to predict a class (label) of an instance.
     
 #### pseudo-code/flow diagram of the system:
+<img src="https://github.com/Nora-almansour/FaceRecognitionSystem/blob/master/Screen%20Shot%201440-03-19%20at%2012.47.33%20AM.png" width="500" height="500">
